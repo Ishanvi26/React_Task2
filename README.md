@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Task 2 - Calculator App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
